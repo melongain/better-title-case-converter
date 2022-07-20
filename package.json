@@ -1,0 +1,24 @@
+{
+  "name": "better-title-case-converter",
+  "version": "1.0.0",
+  "description": "Capitalizes the first letter of every word in a sentence",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melongain/better-title-case-converter"
+  },
+  "bugs": {
+    "url": "https://github.com/melongain/better-title-case-converter/issues"
+  },
+  "homepage": "https://github.com/melongain/better-title-case-converter#readme",
+  "keywords": [
+    "better",
+    "title-case",
+    "converter"
+  ],
+  "author": "melongain <wjm18679815792@gmail.com>",
+  "license": "MIT"
+}
